@@ -1,0 +1,2 @@
+# BAR
+Bayesian adaptive randomization
