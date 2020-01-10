@@ -5,7 +5,7 @@ In traditional randomized clinical trials, patients are randomly assigned to one
 
 Codes are written in R. 
 
-AR_e9.R, boxplot.R, Declaring_Success.R, ER_e2.R are utility functions that need to be run first.
+AR_e9.R, boxplot.R, Declaring_Success.R, ER_e2.R are utility functions that need run first.
 After executing all these utility functions, you can specify arguments and run simulations using run.R. 
 
 This is a joint project working with Dr. Gang Li and Dr. Donatello Telesca from UCLA Biostatistics. 
